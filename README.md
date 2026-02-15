@@ -1,14 +1,6 @@
-<p align="center">
-  <img src="./docs/img/EM-logo.png" alt="Emergency Manager" width="250"/>
-</p>
+# Emergency Manager
 
-<h1 align="center">Emergency Manager</h1>
-
-<p align="center">
-  Plataforma SaaS para gestão operacional de empresas privadas de primeiros socorros.
-</p>
-
----
+<img src="./docs/img/EM-logo.png" alt="Emergency Manager" width="250"/>
 
 ## Sobre o Projeto
 
