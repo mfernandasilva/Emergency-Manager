@@ -1,0 +1,10 @@
+@import './styles/base/reset.css';
+@import './styles/base/variables.css';
+@import './styles/base/global.css';
+
+@import './styles/components/navbar.css';
+
+@import './styles/landing/hero.css';
+
+@import './styles/auth/login.css';
+@import './styles/auth/register.css';
